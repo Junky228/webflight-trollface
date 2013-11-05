@@ -1,4 +1,4 @@
-webflight-gamepad
+webflight-trollface
 =================
 
 This is a plugin for the browser-based AR.Drone ground control station
