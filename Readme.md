@@ -7,6 +7,8 @@ trollfaces on detected faces using opencv.
 
 Extracted from a fork of `ardrone-webflight` created at Nodecopter Berlin: https://github.com/bluemaex/ardrone-webflight
 
+![Preview Image](http://distilleryimage2.ak.instagram.com/be281f881c9311e3ac4722000a9f393d_7.jpg)
+
 ## Running the software
 
 You will need the
