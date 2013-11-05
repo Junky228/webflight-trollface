@@ -1,5 +1,5 @@
 webflight-trollface
-=================
+===================
 
 This is a plugin for the browser-based AR.Drone ground control station
 [webflight](http://eschnou.github.io/ardrone-webflight/) that overlays
@@ -13,7 +13,7 @@ Extracted from a fork of `ardrone-webflight` created at Nodecopter Berlin: https
 
 You will need the
 [ardrone-webflight](https://github.com/eschnou/ardrone-webflight) and
-webflight-traffic repos:
+webflight-trollface repos:
 
 ```
 git clone git://github.com/eschnou/ardrone-webflight.git
